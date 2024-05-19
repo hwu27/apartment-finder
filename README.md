@@ -23,7 +23,7 @@ computer open. Copy and paste the code, but make sure you include the dependency
 
 ![image](https://github.com/hwu27/apartment_finder/assets/130116077/5c2bcb75-34ef-4f07-a954-c81d5474b515)
 
-3. Next, we will use **Google Cloud Scheduler** to run the script every hour or so. Make sure that you are reading the websites terms and rules. Do not spam the website with requests. You can also add more staggered times
+3. Next, we will use **Google Cloud Scheduler** to run the script every hour or so. Make sure that you are reading the websites terms and rules. Do not spam the website with requests. Check for a robots.txt file to check if they allow scraping. You can also add more staggered times
 to send requests.
 
 ![image](https://github.com/hwu27/apartment_finder/assets/130116077/67e16959-c512-4f84-9451-8544a7aa924a)
