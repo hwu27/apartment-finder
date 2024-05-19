@@ -2,7 +2,7 @@
 
 Context: My friends and I decided to sit down and look for apartments as the school year started to end. We went on tours throughout La Jolla and it was during one of these tours that I realized I really needed this
 script. As we sat down, thinking about how amazing the place was, we were told that was taken. It then happened again the next day. There were no apartments with 3 bedrooms available anywhere. So I decided to create
-a Selenium + BeautifulSoup script and run it on Google Cloud. Below is a tutorial.
+a **Selenium + BeautifulSoup** script and run it on **Google Cloud**. Below is a tutorial.
 
 1. To first test the local script, you can run main.py to start the Flask server. Then, use a curl command to see the result.
 Ex:
